@@ -2,8 +2,6 @@
 
 ## Trabalho com as disciplinas de Física, Educação Financeira e com o Edutech!
 
-### Atualmente estou atuando como Formadora do componente Programação EM - Pensamento Computacional.
-
 [link](https://pages.github.com/)
 
 [![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)](https://scratch.mit.edu/)
