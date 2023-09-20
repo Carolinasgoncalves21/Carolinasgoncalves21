@@ -1,6 +1,6 @@
 ## Olá!!! Sou a ⭐Professora Carolina da Silva Gonçalves🌹
 - Sou professora de Matemática, Física, Pensamento Computacional, Educação Financeira, Robótica e Edutech 
--  Atualmente sou professora formadora em Programação EM - Pensamento Computacional
+-  Atualmente sou professora formadora em Programação EM - **Pensamento Computacional**.
 - Gosto muito de trabalhar com Metodologias Ativas e Tecnologias :two_hearts:
 - carolina.goncalves@escola.pr.gov.br
 - https://linktr.ee/Carolinasgoncalves21
